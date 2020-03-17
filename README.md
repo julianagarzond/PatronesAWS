@@ -1,5 +1,7 @@
 # PatronesAWS
 
+Video : https://drive.google.com/file/d/1iLOjJDQlD5hc-sUy9n1lFDDvxSxItzbi/view?usp=sharing 
+
 ##  Sitio estático en S3 
 - Desde consola ingresamos al servicio s3
 ![Capture1](https://user-images.githubusercontent.com/43153078/76692688-f8abfc80-6627-11ea-9c9e-e49a5b3a3e67.PNG)
